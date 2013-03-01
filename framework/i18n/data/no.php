@@ -7,7 +7,7 @@
  * Copyright © 1991-2007 Unicode, Inc. All rights reserved.
  * Distributed under the Terms of Use in http://www.unicode.org/copyright.html.
  *
- * @copyright 2008-2013 Yii Software LLC (http://www.yiiframework.com/license/)
+ * Copyright © 2008-2011 Yii Software LLC (http://www.yiiframework.com/license/)
  */
 return array (
   'version' => '4123',
@@ -199,87 +199,87 @@ return array (
   array (
     'wide' => 
     array (
-      1 => '1',
-      2 => '2',
-      3 => '3',
-      4 => '4',
-      5 => '5',
-      6 => '6',
-      7 => '7',
-      8 => '8',
-      9 => '9',
-      10 => '10',
-      11 => '11',
-      12 => '12',
+      1 => 'Januar',
+      2 => 'Februar',
+      3 => 'Mars',
+      4 => 'April',
+      5 => 'Mai',
+      6 => 'Juni',
+      7 => 'Juli',
+      8 => 'August',
+      9 => 'September',
+      10 => 'Oktober',
+      11 => 'November',
+      12 => 'Desember',
     ),
     'abbreviated' => 
     array (
-      1 => '1',
-      2 => '2',
-      3 => '3',
-      4 => '4',
-      5 => '5',
-      6 => '6',
-      7 => '7',
-      8 => '8',
-      9 => '9',
-      10 => '10',
-      11 => '11',
-      12 => '12',
+      1 => 'Jan',
+      2 => 'Feb',
+      3 => 'Mar',
+      4 => 'Apr',
+      5 => 'Mai',
+      6 => 'Jun',
+      7 => 'Jul',
+      8 => 'Aug',
+      9 => 'Sep',
+      10 => 'Okt',
+      11 => 'Nov',
+      12 => 'Des',
     ),
   ),
   'monthNamesSA' => 
   array (
     'narrow' => 
     array (
-      1 => '1',
-      2 => '2',
-      3 => '3',
-      4 => '4',
-      5 => '5',
-      6 => '6',
-      7 => '7',
-      8 => '8',
-      9 => '9',
-      10 => '10',
-      11 => '11',
-      12 => '12',
+      1 => 'J',
+      2 => 'F',
+      3 => 'M',
+      4 => 'A',
+      5 => 'M',
+      6 => 'J',
+      7 => 'J',
+      8 => 'A',
+      9 => 'S',
+      10 => 'O',
+      11 => 'N',
+      12 => 'D',
     ),
   ),
   'weekDayNames' => 
   array (
     'wide' => 
     array (
-      0 => '1',
-      1 => '2',
-      2 => '3',
-      3 => '4',
-      4 => '5',
-      5 => '6',
-      6 => '7',
+      0 => 'Mandag',
+      1 => 'Tirsdag',
+      2 => 'Onsdag',
+      3 => 'Torsdag',
+      4 => 'Fredag',
+      5 => 'Lørdag',
+      6 => 'Søndag',
     ),
     'abbreviated' => 
     array (
-      0 => '1',
-      1 => '2',
-      2 => '3',
-      3 => '4',
-      4 => '5',
-      5 => '6',
-      6 => '7',
+      0 => 'Man',
+      1 => 'Tir',
+      2 => 'Ons',
+      3 => 'Tor',
+      4 => 'Fre',
+      5 => 'Lør',
+      6 => 'Søn',
     ),
   ),
   'weekDayNamesSA' => 
   array (
     'narrow' => 
     array (
-      0 => '1',
-      1 => '2',
-      2 => '3',
-      3 => '4',
-      4 => '5',
-      5 => '6',
-      6 => '7',
+      0 => 'M',
+      1 => 'T',
+      2 => 'O',
+      3 => 'T',
+      4 => 'F',
+      5 => 'L',
+      6 => 'S',
     ),
   ),
   'eraNames' => 
@@ -302,10 +302,10 @@ return array (
   ),
   'dateFormats' => 
   array (
-    'full' => 'EEEE, y MMMM dd',
-    'long' => 'y MMMM d',
-    'medium' => 'y MMM d',
-    'short' => 'yyyy-MM-dd',
+    'full' => 'EEEE dd. MMMM y',
+    'long' => 'd. MMMM y',
+    'medium' => 'd. MMM y',
+    'short' => 'dd-MM-yyyy',
   ),
   'timeFormats' => 
   array (
